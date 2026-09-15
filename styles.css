@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.trabajitos{
+
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.caja{
+    width: 220px;
+    padding: 30px;
+    margin: 15px;
+    border: 5px solid black;
+    background-color: gray;
+    text-decoration: none;
+    color: black;
+}
+
+header {
+    text-align: center;
+    padding: 5px;
+   background-color: gray;
+}
+
+main {
+    text-align:center;
+}
+
+.caja h3 {
+    margin-top: 0;
+}
+
+.caja p {
+    margin-top: 0;
+}
+
+footer {
+    text-align: center;
+    padding: 15px;
+    background-color: gray;
+    margin-top: 490px;
+}
